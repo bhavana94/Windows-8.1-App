@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest">
+  <Identity Name="45603BhavanaSingh.KidsFavourite" Publisher="CN=F79D7A7B-4E46-4301-BF4B-0303FD63D0F0" Version="1.1.0.0" />
+  <Properties>
+    <DisplayName>Kids Favourite</DisplayName>
+    <PublisherDisplayName>Bhavana Singh</PublisherDisplayName>
+    <Logo>Assets\StoreLogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.3.0</OSMinVersion>
+    <OSMaxVersionTested>6.3.0</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="App3.App">
+      <m2:VisualElements DisplayName="Cartoon Characters" Description="Cartoon Characters" BackgroundColor="#FFFFFF" ForegroundText="dark" Square150x150Logo="Assets\Logo.png" Square30x30Logo="Assets\small logo.png">
+        <m2:DefaultTile>
+          <m2:ShowNameOnTiles>
+            <m2:ShowOn Tile="square150x150Logo" />
+          </m2:ShowNameOnTiles>
+        </m2:DefaultTile>
+        <m2:InitialRotationPreference>
+          <m2:Rotation Preference="portrait" />
+        </m2:InitialRotationPreference>
+        <m2:SplashScreen BackgroundColor="#FFFFFF" Image="Assets\splashscreen copy.png" />
+      </m2:VisualElements>
+    </Application>
+  </Applications>
+</Package>

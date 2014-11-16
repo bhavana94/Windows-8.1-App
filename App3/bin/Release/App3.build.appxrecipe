@@ -1,0 +1,297 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>HOME-PC</Machine>
+    <WindowsUser>Bhavana</WindowsUser>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>45603BhavanaSingh.KidsFavourite</PackageIdentityName>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\MSP Win 8\App3\App3\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\bin\Release\App3.exe">
+      <PackagePath>App3.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\packages\Callisto.1.4.0\lib\netcore451\Callisto.dll">
+      <PackagePath>Callisto.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\191356xcitefun-cartoon-pluto.png">
+      <PackagePath>Assets\191356xcitefun-cartoon-pluto.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\baby copy.png">
+      <PackagePath>Assets\baby copy.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\ooggy.png">
+      <PackagePath>Assets\ooggy.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\powerpuff_girls.png">
+      <PackagePath>Assets\powerpuff_girls.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\simpson.png">
+      <PackagePath>Assets\simpson.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\aang.png">
+      <PackagePath>Assets\aang.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\atta copy.png">
+      <PackagePath>Assets\atta copy.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\auto copy.png">
+      <PackagePath>Assets\auto copy.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\avenger copy.png">
+      <PackagePath>Assets\avenger copy.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\baby1.png">
+      <PackagePath>Assets\baby1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\balganesh copy.png">
+      <PackagePath>Assets\balganesh copy.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\batman copy.png">
+      <PackagePath>Assets\batman copy.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\ellie copy.png">
+      <PackagePath>Assets\ellie copy.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\goku copy.png">
+      <PackagePath>Assets\goku copy.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\jasmine copy.png">
+      <PackagePath>Assets\jasmine copy.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\movie copy.png">
+      <PackagePath>Assets\movie copy.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\mowgli copy.png">
+      <PackagePath>Assets\mowgli copy.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\pokemon copy.png">
+      <PackagePath>Assets\pokemon copy.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\power copy.png">
+      <PackagePath>Assets\power copy.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\sinchin.png">
+      <PackagePath>Assets\sinchin.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\small logo.png">
+      <PackagePath>Assets\small logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\snowhite copy.png">
+      <PackagePath>Assets\snowhite copy.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\SnowWhite6.png">
+      <PackagePath>Assets\SnowWhite6.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\splas.png">
+      <PackagePath>Assets\splas.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\splashscreen copy.scale-100.png">
+      <PackagePath>Assets\splashscreen copy.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\super copy.png">
+      <PackagePath>Assets\super copy.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\super1 copy.png">
+      <PackagePath>Assets\super1 copy.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\superhero.png">
+      <PackagePath>Assets\superhero.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\Tarzan.png">
+      <PackagePath>Assets\Tarzan.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\powerpuff.png">
+      <PackagePath>Assets\powerpuff.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\timon_by_xdisney-d4km5tm.png">
+      <PackagePath>Assets\timon_by_xdisney-d4km5tm.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\tom-and-jerry-60.png">
+      <PackagePath>Assets\tom-and-jerry-60.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\tumblr_static_flik_and_atta.png">
+      <PackagePath>Assets\tumblr_static_flik_and_atta.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\uncle.png">
+      <PackagePath>Assets\uncle.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\Untitled-1 copy.png">
+      <PackagePath>Assets\Untitled-1 copy.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\Untitled-2 copy.png">
+      <PackagePath>Assets\Untitled-2 copy.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\Untitled-5 copy.png">
+      <PackagePath>Assets\Untitled-5 copy.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\Untitled-6 copy.png">
+      <PackagePath>Assets\Untitled-6 copy.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\wide copy.png">
+      <PackagePath>Assets\wide copy.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\abu.jpg">
+      <PackagePath>Assets\abu.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\aladdin.jpg">
+      <PackagePath>Assets\aladdin.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\alex.jpg">
+      <PackagePath>Assets\alex.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\autobots-logo-18.jpg">
+      <PackagePath>Assets\autobots-logo-18.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\Avengers.jpg">
+      <PackagePath>Assets\Avengers.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\baby herman.jpg">
+      <PackagePath>Assets\baby herman.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\balganesh.jpg">
+      <PackagePath>Assets\balganesh.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\batman.jpg">
+      <PackagePath>Assets\batman.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\ben10.jpg">
+      <PackagePath>Assets\ben10.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\chhota-bheem-in-action.jpg">
+      <PackagePath>Assets\chhota-bheem-in-action.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\disney.jpg">
+      <PackagePath>Assets\disney.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\goku.jpg">
+      <PackagePath>Assets\goku.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\golden-background-with-sparkle.jpg">
+      <PackagePath>Assets\golden-background-with-sparkle.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\hanna.jpg">
+      <PackagePath>Assets\hanna.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\Hulk10.jpg">
+      <PackagePath>Assets\Hulk10.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\iQBXbbmMxdnHM.jpg">
+      <PackagePath>Assets\iQBXbbmMxdnHM.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\mannymester6.jpg">
+      <PackagePath>Assets\mannymester6.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\Mickey-Mouse.jpg">
+      <PackagePath>Assets\Mickey-Mouse.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\movie.jpg">
+      <PackagePath>Assets\movie.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\Mowgli.jpg">
+      <PackagePath>Assets\Mowgli.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\photo.jpg">
+      <PackagePath>Assets\photo.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\pokemon.jpg">
+      <PackagePath>Assets\pokemon.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\power.jpg">
+      <PackagePath>Assets\power.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\scooby-doo-where-are-you.jpg">
+      <PackagePath>Assets\scooby-doo-where-are-you.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\cartoon.jpg">
+      <PackagePath>Assets\cartoon.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\cartoon31.jpg">
+      <PackagePath>Assets\cartoon31.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\cindrellla.jpg">
+      <PackagePath>Assets\cindrellla.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\jasmine_accent_1000g.jpg">
+      <PackagePath>Assets\jasmine_accent_1000g.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\spiderman.jpg">
+      <PackagePath>Assets\spiderman.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\superman.jpg">
+      <PackagePath>Assets\superman.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\xmen.jpg">
+      <PackagePath>Assets\xmen.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\Xmen18omegared.jpg">
+      <PackagePath>Assets\Xmen18omegared.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\yogi-bear_626_b.jpg">
+      <PackagePath>Assets\yogi-bear_626_b.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\splash.jpg">
+      <PackagePath>splash.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\Assets\YellowBackground.BMP">
+      <PackagePath>Assets\YellowBackground.BMP</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\bin\Release\About.xbf">
+      <PackagePath>About.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\bin\Release\Common\StandardStyles.xbf">
+      <PackagePath>Common\StandardStyles.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\bin\Release\GroupedItemsPage.xbf">
+      <PackagePath>GroupedItemsPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\bin\Release\GroupDetailPage.xbf">
+      <PackagePath>GroupDetailPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\bin\Release\ItemDetailPage.xbf">
+      <PackagePath>ItemDetailPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\packages\Callisto.1.4.0\lib\netcore451\Callisto\themes\Generic.xbf">
+      <PackagePath>Callisto\themes\Generic.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MSP Win 8\App3\App3\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
